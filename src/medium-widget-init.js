@@ -1,0 +1,1 @@
+MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@stephenmcbride","postsPerLine":2,"limit":4,"picture":"none","fields":["description","author","publishAt"],"ratio":"landscape"}})

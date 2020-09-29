@@ -1,0 +1,13 @@
+.skills-icon-container {
+    padding: 20px;
+}
+
+.skills-icon-container ul {
+    display: inline-block;
+}
+
+.skills-icon-container ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0px 10px;
+}
