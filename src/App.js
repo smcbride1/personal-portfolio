@@ -21,6 +21,12 @@ function App() {
               return null;
             }}
           />
+          <Route path='/blog/action-cable-api-only'
+                component={() => { 
+              window.location.href = 'https://stephenmcbride.medium.com/how-to-use-action-cable-with-an-api-only-application-e1db58f1b7c6'; 
+              return null;
+            }}
+          />
       </Switch>
     </Router>
   );
