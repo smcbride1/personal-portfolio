@@ -27,6 +27,12 @@ function App() {
               return null;
             }}
           />
+          <Route path='/blog/sass-basics'
+                component={() => { 
+              window.location.href = 'https://stephenmcbride.medium.com/sass-css-but-better-3da56bfac91'; 
+              return null;
+            }}
+          />
       </Switch>
     </Router>
   );
