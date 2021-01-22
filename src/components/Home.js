@@ -17,22 +17,22 @@ function Home() {
         <nav className="nav_links">
           <ul>
             <li>
-              <a href="#work">WORK</a>
+              <a href="#work">Work</a>
             </li>
             <li>
-              <a href="#skills">SKILLS</a>
+              <a href="#skills">Skills</a>
             </li>
             <li>
-              <a href="#education">EDUCATION</a>
+              <a href="#education">Education</a>
             </li>
             <li>
-              <a href="#resume">RESUME</a>
+              <a href="#resume">Resume</a>
             </li>
             <li>
-              <a href="#contact">CONTACT</a>
+              <a href="#contact">Contact</a>
             </li>
             <li>
-              <a href="https://medium.com/@stephenmcbride" target="_blank">BLOG</a>
+              <a href="https://medium.com/@stephenmcbride" target="_blank">Blog</a>
             </li>
           </ul>
         </nav>
